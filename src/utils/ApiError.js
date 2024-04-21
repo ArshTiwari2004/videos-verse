@@ -21,3 +21,4 @@ stack=""
   
   }
 }
+export {ApiError}
